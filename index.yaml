@@ -3,12 +3,22 @@ entries:
   devops:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-11-01T06:46:25.991387464Z"
+    created: "2026-11-01T07:18:52.396843161Z"
     description: A Helm chart for Kubernetes
-    digest: 7e3f15d7c562706091e5a965fed37431cc6db78c094adab24248dee2d4454fc0
+    digest: a0bed60078cbd03e3488f6e05fb66d2bf9432f5798569343e99afdd95d9004b1
     name: devops
     type: application
     urls:
     - devops-0.1.0.tgz
     version: 0.1.0
-generated: "2026-11-01T06:46:25.990649694Z"
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-11-01T07:18:52.39739539Z"
+    description: A Helm chart for Kubernetes
+    digest: a0bed60078cbd03e3488f6e05fb66d2bf9432f5798569343e99afdd95d9004b1
+    name: devops
+    type: application
+    urls:
+    - helmChartRepo/devops-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-11-01T07:18:52.396113739Z"
